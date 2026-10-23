@@ -1,0 +1,1 @@
+- [Orquestração Médica Multi-Agente](orchestration-medical-docs.md) — Orquestração via skill orchestration (Orca), livros em Livros/ na raiz, download obrigatório de livros inteiros e validação visual de SVGs
